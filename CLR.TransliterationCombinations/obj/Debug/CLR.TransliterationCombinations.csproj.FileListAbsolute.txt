@@ -1,0 +1,4 @@
+C:\Users\ip-rysin-2\Documents\Visual Studio 2010\Projects\CLR.TransliterationCombinations\bin\Debug\CLR.TransliterationCombinations.dll
+C:\Users\ip-rysin-2\Documents\Visual Studio 2010\Projects\CLR.TransliterationCombinations\bin\Debug\CLR.TransliterationCombinations.pdb
+C:\Users\ip-rysin-2\Documents\Visual Studio 2010\Projects\CLR.TransliterationCombinations\obj\Debug\CLR.TransliterationCombinations.dll
+C:\Users\ip-rysin-2\Documents\Visual Studio 2010\Projects\CLR.TransliterationCombinations\obj\Debug\CLR.TransliterationCombinations.pdb
