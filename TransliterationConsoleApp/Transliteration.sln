@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transliteration", "Transliteration\Transliteration.csproj", "{8B5DA657-2828-4633-8870-2831D0B07890}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B5DA657-2828-4633-8870-2831D0B07890}.Debug|x86.ActiveCfg = Debug|x86
+		{8B5DA657-2828-4633-8870-2831D0B07890}.Debug|x86.Build.0 = Debug|x86
+		{8B5DA657-2828-4633-8870-2831D0B07890}.Release|x86.ActiveCfg = Release|x86
+		{8B5DA657-2828-4633-8870-2831D0B07890}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\ip-rysin-2\Documents\Visual Studio 2010\Projects\Transliteration\Transliteration\bin\Debug\Transliteration.exe
+C:\Users\ip-rysin-2\Documents\Visual Studio 2010\Projects\Transliteration\Transliteration\bin\Debug\Transliteration.pdb
+C:\Users\ip-rysin-2\Documents\Visual Studio 2010\Projects\Transliteration\Transliteration\obj\x86\Debug\Transliteration.exe
+C:\Users\ip-rysin-2\Documents\Visual Studio 2010\Projects\Transliteration\Transliteration\obj\x86\Debug\Transliteration.pdb
+C:\Users\ip-rysin-2\Documents\Visual Studio 2010\Projects\Transliteration\Transliteration\bin\Debug\Transliteration.exe.config
+C:\Users\ip-rysin-2\Documents\Visual Studio 2010\Projects\Transliteration\Transliteration\obj\x86\Debug\Transliteration.csprojResolveAssemblyReference.cache
